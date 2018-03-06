@@ -1,2 +1,4 @@
 # hello-world
-The first
+The first program.
+
+I hope this shit works
